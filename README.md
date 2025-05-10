@@ -17,6 +17,10 @@ The certificates are stored in this hub for a very important reason: **we need a
 3. **Sign the App**:
    - With the required files and password, the app is signed successfully.
 
+## Are These Serenity's Certificates?
+
+**No**, we do not use Serenity's own certificates. Instead, we find **Enterprise Certificates** that are available online, especially from sources like **AppleP12.com** or **CookHub**.
+
 ## Can I Use or Distribute These Certificates?
 
 Yes, **as long as it's not for any fraudulent or scamming activities**. The certificates are intended for legitimate use only.
